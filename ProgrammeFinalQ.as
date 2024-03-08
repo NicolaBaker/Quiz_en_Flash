@@ -1,0 +1,1 @@
+﻿questionS[0]=[ 0, " : Les questions que tu as sautées en cliquant sur prochain","\n"];

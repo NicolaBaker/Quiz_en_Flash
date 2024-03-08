@@ -1,0 +1,25 @@
+<infoMath>
+			 <math>
+			 		<nomEleve>Explication</nomEleve>
+					<codeMath> </codeMath>
+					<exMath>1re étape, choisissez quelle catégorie que vous voulez : Facile, Moyen, Difficile</exMath>
+					<ex2Math>pour plus d'explications, veuillez cliquer sur ? et les chiffres de couleur rouge</ex2Math>
+			 </math>
+		       <math>
+			 		<nomEleve>Facile</nomEleve>
+					<codeMath>exemple : 1 + 1 - 1 = 1</codeMath>
+				
+			 </math>
+			 <math>
+			 		<nomEleve>Moyen</nomEleve>
+					<codeMath>exemple : 1 x 1 - (-1) + 1 = 3</codeMath>
+				
+			 </math>
+			 <math>
+			 		<nomEleve>Difficile</nomEleve>
+					<codeMath>exemple : 1 x 1 - 1 x 1 - (-1) = 1</codeMath>
+					
+			 </math>
+
+			 
+</infoMath>
